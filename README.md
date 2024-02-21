@@ -1,6 +1,7 @@
 # Subject Level Sleep Analysis
 This simple data analysis project analyzes the sleeping data of a single subject with the aim of revealing interesting subject-level observations. More specifically, the analysis focuses on sleep quality affecting factors and temporal patterns in the data. The dataset is a Kaggle dataset from Dana Diotte, obtained from: https://www.kaggle.com/datasets/danagerous/sleep-data?select=sleepdata_2.csv. The analysis was performed with Python and the utilized libraries are: Pandas, NumPy, scikit-learn, Matplotlib, and Seaborn.
-\
+
+
 ![image](https://github.com/jsimell/SleepAnalysis/assets/96237825/28792c7b-2abb-403a-98cc-3dd43a9d33b4)
 
 # Files
